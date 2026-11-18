@@ -1,0 +1,20 @@
+# Ambientes Virtuais e Dependências
+pdf_env/
+__pycache__/
+*.pyc
+
+# Licenças de Máquinas Locais
+*.lic
+licenca_arquivonorte.lic
+
+# Logs e Arquivos Temporários de Teste
+*.tmp
+*.log
+rastreio_*.txt
+resultado_busca*.txt
+
+# Arquivos de Sistema Operacional
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
